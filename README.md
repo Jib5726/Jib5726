@@ -10,5 +10,9 @@ CS student @ NEDUET
 ![SFML](https://img.shields.io/badge/SFML-1B2A6B?style=flat-square&logo=cachet&logoColor=F2C94C)
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/Jib5726/Jib5726/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
+<div align="center">
 <img src="assets/banner.svg" width="100%"/>
 </div>
