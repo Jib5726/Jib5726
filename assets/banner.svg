@@ -17,6 +17,6 @@
   <line x1="0" y1="5" x2="900" y2="5" stroke="#F2C94C" stroke-width="1" opacity="0.3"/>
 
   <!-- Add your own chibi PNGs to assets/ with these exact filenames, or edit the href below to match yours -->
-  <image href="furina-chibi-1.png" x="20" y="20" width="110" height="110"/>
-  <image href="furina-chibi-2.png" x="770" y="20" width="110" height="110"/>
+  <image href="4210.png" x="20" y="20" width="110" height="110"/>
+  <image href="4209.png" x="770" y="20" width="110" height="110"/>
 </svg>
